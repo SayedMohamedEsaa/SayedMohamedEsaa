@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sayed+Issa+%F0%9F%91%8B;Computer+Science+Student;Aspiring+Data+Engineer;Building+Data+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=SayedMohamedEsaa&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />font=Fira+Code&weight=600&size=25&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sayed+Issa+%F0%9F%91%8B;Computer+Science+Student;Aspiring+Data+Engineer;Building+Data+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/">
